@@ -138,7 +138,8 @@ Add images and other contents using CSS record a screenshot of it.
 </html>
 ```
 ## Output:
-![Screenshot 2023-11-06 115532](https://github.com/NaveenSivamalai/cover/assets/123792574/3a84b278-7832-4c94-a6d5-0c783d6d212b)
+
+![Screenshot (101)](https://github.com/NaveenSivamalai/cover/assets/123792574/0f984a52-2d80-470e-8153-4a3140b4d7e0)
 
 
 ## Result:
